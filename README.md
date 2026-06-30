@@ -31,7 +31,8 @@ An enterprise-grade, multi-page Power BI dashboard engineered using the Olist Br
 ## 📸 Dashboard Previews
 
 ### Customer Insights Tab
-![Customer Insights Dashboard](<img width="1007" height="777" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/a3a08d29-e1fb-4b7b-b93c-3fdcac31e1f7" />
+![Customer Insights Dashboard](<img width="1007" height="777" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/2733fdcd-cad0-4f32-a2e3-6ed920056d23" />
+
 )
 
 
