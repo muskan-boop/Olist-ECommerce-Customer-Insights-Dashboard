@@ -1,0 +1,5 @@
+campaign_id,campaign_name,platform,campaign_date,spend,clicks,impressions
+C001,Summer Sale,Google Ads,2024-01-01,500,2500,50000
+C002,Festival Sale,Meta Ads,2024-01-01,300,1800,35000
+C003,Winter Campaign,Google Ads,2024-01-02,700,3200,62000
+C004,New Year Offer,Meta Ads,2024-01-02,450,2200,42000
