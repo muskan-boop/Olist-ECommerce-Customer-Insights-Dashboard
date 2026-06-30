@@ -13,10 +13,17 @@ An enterprise-grade, multi-page Power BI dashboard engineered using the Olist Br
 ### 1. Executive Overview
 - **Objective:** Provide C-suite executives with a macro-lens view of the business health, revenue streams, and high-level growth trajectory.
 - **Metrics Tracked:** Total Revenue, Gross Order Volume, Regional Sales Leaderboards, and Category-wise Revenue distribution.
+- ## 📸 Dashboard Preview
+- 
+<img width="1006" height="715" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/5f948c96-2da8-4341-87f8-2cd83a3ce710" />
+
 
 ### 2. Campaign Analytics
 - **Objective:** Empower marketing teams to audit and fine-tune ad spend, customer acquisition efficiency, and conversion funnels.
 - **Metrics Tracked:** Customer Acquisition Cost (CAC), Return on Ad Spend (ROAS), and Marketing Channel Efficiency.
+- ## 📸 Dashboard Preview
+- 
+<img width="995" height="756" alt="Campaign Dashboard" src="https://github.com/user-attachments/assets/f512fb85-ca81-4d8d-8408-e62fbc88f5b1" />
 
 ### 3. Customer Insights & Logistics Performance
 - **Objective:** Analyze post-purchase consumer behavior, product affinity, operational bottleneck identification, and fulfillment health.
@@ -30,9 +37,7 @@ An enterprise-grade, multi-page Power BI dashboard engineered using the Olist Br
 ## 📸 Dashboard Previews
 
 ### Customer Insights Tab
-(<img width="1007" height="777" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/2733fdcd-cad0-4f32-a2e3-6ed920056d23" />
-
-)
+<img width="1007" height="777" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/2733fdcd-cad0-4f32-a2e3-6ed920056d23" />
 
 
 ---
