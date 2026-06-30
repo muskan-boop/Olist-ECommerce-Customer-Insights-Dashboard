@@ -1,5 +1,4 @@
-# Olist-ECommerce-Customer-Insights-Dashboard
-# Olist E-Commerce Analytics Dashboard 📊
+# Olist-ECommerce-Customer-Insights-Dashboard📊
 
 An enterprise-grade, multi-page Power BI dashboard engineered using the Olist Brazilian E-Commerce dataset. This project translates raw transactional retail data into high-impact, actionable business intelligence across marketing, operations, and customer experience domains.
 
@@ -31,7 +30,7 @@ An enterprise-grade, multi-page Power BI dashboard engineered using the Olist Br
 ## 📸 Dashboard Previews
 
 ### Customer Insights Tab
-![Customer Insights Dashboard](<img width="1007" height="777" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/2733fdcd-cad0-4f32-a2e3-6ed920056d23" />
+(<img width="1007" height="777" alt="Customer Dashboard" src="https://github.com/user-attachments/assets/2733fdcd-cad0-4f32-a2e3-6ed920056d23" />
 
 )
 
